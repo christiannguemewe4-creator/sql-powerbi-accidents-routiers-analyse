@@ -109,7 +109,7 @@ Chaque fichier contient les requêtes et la conclusion de l'analyse en commentai
 
 Prolongement de l'analyse SQL : les mêmes données (accidents corporels 2024, data.gouv.fr) sont présentées dans un tableau de bord Power BI de 3 pages, pensé pour un responsable de la sécurité routière.
 
-📄 [Voir le tableau de bord en PDF](dashboard_accidents_2024.pdf) · 📊 [Fichier Power BI (.pbix)](   (accident%20bi.pbix)
+📄 [Voir le tableau de bord en PDF](dashboard_accidents_2024.pdf) · 📊 [Fichier Power BI (.pbix)](accident%20bi.pbix)
 
 > **Deux indicateurs de gravité** : les pages 1 et 2 utilisent le nombre de **tués pour 100 accidents** (moyenne : 6,31), adapté pour comparer des lieux et des conditions. La page 3 utilise les **tués pour 100 usagers impliqués** (moyenne : 2,74), le même indicateur que l'analyse SQL, adapté pour comparer des profils de victimes.
 
